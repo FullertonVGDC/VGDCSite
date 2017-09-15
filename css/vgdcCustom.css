@@ -1,0 +1,20 @@
+/*!
+ * VGDC is the custom CSS for the VGDC website. 
+ */
+
+body {
+    padding-top: 100px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+
+
+.card {
+    height: 100%;
+}
+
+
+#red{
+  color: #fcfcfc;
+}
