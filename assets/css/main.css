@@ -30,7 +30,7 @@ blockquote:before, blockquote:after, q:before, q:after {
   content: '';
   content: none; }
 
-table {
+.alt {
   border-collapse: collapse;
   border-spacing: 0; }
 
