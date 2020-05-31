@@ -1,0 +1,45 @@
+.boardCell{
+    border-radius: 25px;
+    color: white;
+    align-items: center;
+    width: 200px;
+    height: 75px;
+    text-align: center;
+    
+}
+.headingLine {
+     /* padding: 01x 0px; */
+     font-weight: bold;
+     
+     
+}
+.headingLine:after{
+    content: "";
+    display: block;
+    width: 115%;
+    height: 1px;
+    background-color: white;
+    text-decoration-style: double;
+    position: relative;
+     margin-left: -15px;
+}
+.boardHeader {
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    font-weight: bold;
+}
+.boardmember {
+    border-radius: 50%;
+    border: solid white 5px;
+    width: 100px;
+    height: 100px;
+}
+.placeHolder {
+    width: 100px;
+    height: 100px;
+}
+table.boardTable {
+    border: none;
+    border-spacing: 5px;
+    width: 100%;
+}
